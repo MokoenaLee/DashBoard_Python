@@ -5,11 +5,10 @@ $(document).ready(function(){
       var date = new Date();
       dataTable.row.add([
           data.name,
-          data.position,
+          data.title,
           data.office,
-          data.age,
           `${date.getFullYear()}/${date.getMonth()}/${date.getDay()}`,
-          data.salary
+          data.cost
         ]).draw( false );
       });
     });
