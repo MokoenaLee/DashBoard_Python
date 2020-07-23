@@ -48,9 +48,9 @@ def customer():
 	data = request.form 
 	pusher.trigger(u'customer', u'add', {
 		u'name'  : data['name'],
-		u'title' : data['title'],
+		u'position' : data['position'],
 		u'office': data['office'],
-		u'cost'  : data['cost'],
+		u'cost'  : data['cost']
 	})
 	return "customer added"
 

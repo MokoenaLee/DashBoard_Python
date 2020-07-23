@@ -5,7 +5,7 @@ $(document).ready(function(){
       var date = new Date();
       dataTable.row.add([
           data.name,
-          data.title,
+          data.position,
           data.office,
           `${date.getFullYear()}/${date.getMonth()}/${date.getDay()}`,
           data.cost
