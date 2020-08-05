@@ -1,7 +1,9 @@
 # DashBoard_Python
 
 Description:
-A Live and interactive Dashboard with of AV Event orders using Bootstrap CSS and JavaScript scaffolding
+A Live and interactive Dashboard of AV Event orders using Bootstrap CSS and JavaScript scaffolding
+
+
 
 Environment Requirements:
 
