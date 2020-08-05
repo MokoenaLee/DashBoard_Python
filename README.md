@@ -3,6 +3,30 @@
 Description:
 A Live and interactive Dashboard of AV Event orders using Bootstrap CSS and JavaScript scaffolding
 
+Analysis of the product (fictitional for analyis purpose)
+
+##Product Vision
+For users/companies 
+Who need event Audio Visual assistance
+The AV Event Dashboard is a productivity management product  
+That enables the AV company to track support requests and be able to streamline them in order of importance
+Unlike the use of spreadsheets to track requests
+This product gives a live interactive and visually engaging way to track ticket traffic in order to make decisions about resource allocation
+
+-Template from Geoffrey Moore's book Crossing the Chasm
+
+##Product Features
+
+###Implemented
+-RESTful routes ( new order, adding a new customer, sending a message along with the order)
+-Pusher CLI to ensure live dashboard update
+-Landing page for new customers
+-Information collection using HTML forms
+
+###In progress
+-Rearrange information collection form on landing page to make it more intuitve 
+-host the dashboard on heroku to bypass download and setting up environment locally
+-design a database to store information collected
 
 
 Environment Requirements:
