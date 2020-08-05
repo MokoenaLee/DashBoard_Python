@@ -1,11 +1,8 @@
 # DashBoard_Python
 
-Description:
-A Live and interactive Dashboard of AV Event orders using Bootstrap CSS and JavaScript scaffolding
+Analysis of the product 
 
-Analysis of the product (fictitional for analyis purpose)
-
-##Product Vision
+## Product Vision
 For users/companies 
 Who need event Audio Visual assistance
 The AV Event Dashboard is a productivity management product  
@@ -15,15 +12,15 @@ This product gives a live interactive and visually engaging way to track ticket 
 
 -Template from Geoffrey Moore's book Crossing the Chasm
 
-##Product Features
+## Product Features
 
-###Implemented
+### Implemented
 -RESTful routes ( new order, adding a new customer, sending a message along with the order)
 -Pusher CLI to ensure live dashboard update
 -Landing page for new customers
 -Information collection using HTML forms
 
-###In progress
+### In progress
 -Rearrange information collection form on landing page to make it more intuitve 
 -host the dashboard on heroku to bypass download and setting up environment locally
 -design a database to store information collected
