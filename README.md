@@ -22,8 +22,15 @@ This product gives a live interactive and visually engaging way to track ticket 
 
 ### In progress
 -Rearrange information collection form on landing page to make it more intuitve 
--host the dashboard on heroku to bypass download and setting up environment locally
--design a database to store information collected
+-Dost the dashboard on heroku to bypass download and setting up environment locally
+-Design a database to store information collected
+-Rating system
+-User/Customer Login
+### Metrics to measure product success
+-Monthly increase in daily active users with a 20% minimum ratio
+-Written feedback from users about product usability
+-Average rating of 4.0
+
 
 
 Environment Requirements:
