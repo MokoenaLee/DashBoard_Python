@@ -1,6 +1,6 @@
 # DashBoard_Python
 
-Analysis of the product 
+
 
 ## Product Vision
 For users/companies 
