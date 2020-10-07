@@ -3,12 +3,9 @@
 
 
 ## Product Vision
-For users/companies 
-Who need event Audio Visual assistance
-The AV Event Dashboard is a productivity management product  
-That enables the AV company to track support requests and be able to streamline them in order of importance
-Unlike the use of spreadsheets to track requests
-This product gives a live interactive and visually engaging way to track ticket traffic in order to make decisions about resource allocation
+For users/companies who need event Audio Visual assistance.
+
+The AV Event Dashboard is a productivity management product that enables the AV company to track support requests and be able to streamline them in order of importance. Unlike the use of spreadsheets to track requests this product gives a live interactive and visually engaging way to track ticket traffic in order to make decisions about resource allocation
 
 -Template from Geoffrey Moore's book Crossing the Chasm
 
